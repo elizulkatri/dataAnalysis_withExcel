@@ -12,3 +12,6 @@ What is Cosine Similarity? Cosine similarity is a metric, helpful in determining
 
 So here's the excel file to practice the cosine similarity:
 [cosine_data.xlsx](https://github.com/elizulkatri/dataAnalysis_withExcel/files/9653513/cosine_data.xlsx)
+
+## RFM Analysis using Excel
+How to increase sales by analyzing customer behaviour? yes, you can use RFM to check your customer behavior.
