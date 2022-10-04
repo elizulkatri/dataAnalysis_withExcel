@@ -23,3 +23,8 @@ The “RFM” in RFM analysis stands for recency, frequency and monetary value. 
 So here's the excel file that I have practiced the RFM:
 [RFMwithExcel.xlsx](https://github.com/elizulkatri/dataAnalysis_withExcel/files/9670712/RFMwithExcel.xlsx)
 
+## Clustering K-means using Excel
+So here's the excel file that I have practiced K-means using Excel: [KmeansClusterAnalysis.xlsx](https://github.com/elizulkatri/dataAnalysis_withExcel/files/9703239/KmeansClusterAnalysis.xlsx)
+
+
+
